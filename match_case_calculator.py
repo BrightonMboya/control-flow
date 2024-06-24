@@ -12,7 +12,7 @@ while (True):
               print(f"The Result is {firstNumber * secondNumber}")
         case operation if operation == "/":
               if secondNumber == "0":
-                  print("Cannot divide by zero")
+                  print("Cannot divide by zero.")
                   break
               else:
                 print(f"The result is {firstNumber / secondNumber}")
