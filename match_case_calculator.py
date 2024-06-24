@@ -15,5 +15,5 @@ while (True):
                   print("Cannot divide by zero")
                   break
               else:
-                print(f"The Result is {firstNumber / secondNumber}")
+                print(f"The result is {firstNumber / secondNumber}")
     break
